@@ -1,3 +1,20 @@
+/*
+Sample Input
+5
+aaaaaannndnnnnnnfffhfhhgjjjwkkkllclc
+a.
+n+
+a*
+an.
+a.d.
+
+Sample Output
+5
+3
+2
+1
+0
+*/
 #include<stdio.h>
 #include<stdlib.h>
 #define MAX 256
